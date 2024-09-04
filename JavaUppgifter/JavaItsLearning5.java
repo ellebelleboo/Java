@@ -6,7 +6,7 @@ public class JavaItsLearning5 {
         int points = 85; 
         int score = 0;
         
-        if (points >= 90 && points <= 100) {
+        if (points >= 90 && points >= 100) {
             score = 5;
         } else if (points >= 80 && points <= 89) {
             score = 4;
